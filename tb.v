@@ -1,7 +1,7 @@
 `timescale 1ns/1ns
 
 module tb;
-  wire [7:0] data = 8'b10101011;
+  wire [7:0] data = 8'b10101010;
   reg clk;
   wire idle;
   wire start;
@@ -91,11 +91,5 @@ module tb;
     clk = 1;
     #20;
     display_vals;
-    clk = 0;
-    #20;
-    clk = 1;
-    #20;
-    display_vals;
   end
-
   endmodule

@@ -1,0 +1,416 @@
+{
+ "builder": {
+  "_version": "<undefined>",
+  "_logger": "hdl_checker.builders.fallback",
+  "_work_folder": "/home/kenny/Geek/rs422/.hdl_checker",
+  "_builtin_libraries": [],
+  "_added_libraries": [
+   {
+    "name": "default_library",
+    "case_sensitive": false,
+    "__class__": "Identifier"
+   }
+  ],
+  "__class__": "Fallback"
+ },
+ "config_file": [
+  {
+   "name": "/tmp/hdl_checker_project_pid161773.json",
+   "__class__": "Path"
+  },
+  1712593313.3002603,
+  "generated"
+ ],
+ "database": {
+  "sources": [
+   {
+    "path": {
+     "name": "/home/kenny/Geek/rs422/tb.v",
+     "__class__": "Path"
+    },
+    "mtime": 1712594053.1158257,
+    "flags": {
+     "source_specific": [],
+     "single": [],
+     "dependencies": []
+    },
+    "dependencies": [],
+    "diags": []
+   },
+   {
+    "path": {
+     "name": "/home/kenny/Geek/rs422/rs232.v",
+     "__class__": "Path"
+    },
+    "mtime": 1712595142.5740745,
+    "flags": {
+     "source_specific": [],
+     "single": [],
+     "dependencies": []
+    },
+    "dependencies": [],
+    "diags": []
+   }
+  ],
+  "inferred_libraries": [
+   {
+    "name": "/tmp/tmpntz72_87.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpr3rwgchi.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpf_qgmg6z.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpajwpybi1.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp1n86d44v.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpnjayctr0.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp6irkigis.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmps6zfwysd.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp73d1pi79.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp2r8xmc9w.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpdmb_1uyz.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp_pi64wnf.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmplmt0adt_.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpet4uext4.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp1hk5m700.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpxbw51s07.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpy0euk7wa.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpjmfxa4xf.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp0v_gy1wm.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpzd_z1qft.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpfp7dx11p.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpxjke2l6o.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmptxjk9c8o.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmph5f8g088.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp7crzw74h.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp62mnniwi.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpvlcm18r8.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpqneqw1je.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpy2mi57o3.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpa7pio7p6.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpaz2rea10.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpncjal4bc.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/home/kenny/Geek/rs422/tb.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpy4mv3fe7.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpezcnmotq.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmphq747yhy.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp5hjvkkfr.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp23eg4e0d.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmprsgh2vm2.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp8p6zampv.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmptupq5j_g.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp5wpho0q0.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp4qyjx5bw.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpnikkaa0r.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpoqkf0e88.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp98es5hqi.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpgybuq825.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpuf8gl2kp.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpazc9fq0o.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/home/kenny/Geek/rs422/rs232.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp62g8bo2v.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpx0_e10hs.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp3qrq4i1z.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpgz2wrnle.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpi14mh6yz.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpl787aguo.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp9ol5231o.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpef49o96a.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpm8tpk27d.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp4vhcbaha.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp05rgs2bn.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmph4i8swii.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpz7qfydx4.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpxplqw2u7.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpbxofukqv.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpxzudkqus.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp6ak7z5oq.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp27ljtiq2.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpj05g30ym.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpistgrcq0.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp4ihr2gvi.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp9mi6c22_.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpb0o01lmf.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmphhsr1p2_.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmp_jki69yj.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpg4bonh07.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpu75t3knd.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpzg04vf2h.v",
+    "__class__": "Path"
+   },
+   {
+    "name": "/tmp/tmpfu8fnmfr.v",
+    "__class__": "Path"
+   }
+  ],
+  "design_units": [
+   {
+    "owner": {
+     "name": "/home/kenny/Geek/rs422/tb.v",
+     "__class__": "Path"
+    },
+    "type_": "entity",
+    "name": {
+     "name": "tb",
+     "case_sensitive": true,
+     "__class__": "VerilogIdentifier"
+    },
+    "locations": [
+     [
+      2,
+      7
+     ]
+    ],
+    "__class__": "VerilogDesignUnit"
+   },
+   {
+    "owner": {
+     "name": "/home/kenny/Geek/rs422/rs232.v",
+     "__class__": "Path"
+    },
+    "type_": "entity",
+    "name": {
+     "name": "rs232_transmitter",
+     "case_sensitive": true,
+     "__class__": "VerilogIdentifier"
+    },
+    "locations": [
+     [
+      0,
+      6
+     ]
+    ],
+    "__class__": "VerilogDesignUnit"
+   }
+  ],
+  "__class__": "Database"
+ },
+ "__version__": "0.7.4"
+}
