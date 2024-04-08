@@ -15,9 +15,9 @@ module rs232_transmitter(data, clk, idle, start, stop, op_bit);
    idle = 1;
    start = 0;
    stop = 0;
-   counter = 0;
+   counter = 1;
    first_bit = 1;
-   last_bit = 0;
+   last_bit = 1;
    data_copy = data;
  end
 
@@ -59,7 +59,14 @@ module rs232_transmitter(data, clk, idle, start, stop, op_bit);
      op_bit = data_copy[0];
      data_copy = data_copy >> 1;
      counter += 1;
-   end 
+   end else begin 
+     idle = 1;
+     if (last_bit == 1)begin
+      stop = 1;
+      op_bit = data_copy[0];
+     end
+     start = 0;
+   end
  end
 
 endmodule
